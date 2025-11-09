@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual env
+.venv/
+venv/
+
+# IDE
+.idea/
+
+# OS noise
+.DS_Store
+Thumbs.db
+
+# Test/coverage
+pytest_cache/
+.coverage
+htmlcov/
